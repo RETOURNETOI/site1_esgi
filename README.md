@@ -11,9 +11,13 @@ Optimisé pour le SEO et la performance
 🛠️ Technologies utilisées
 
 Frontend : HTML5, CSS3, JavaScript
+
 Frameworks/Libraries : Bootstrap
+
 Backend : PHP
+
 Base de données : MySQL
+
 📦 Installation
 
 Clone le dépôt :
@@ -21,6 +25,7 @@ git clone https://github.com/ton-utilisateur/nom-du-site.git
 cd nom-du-site
 Ouvre le fichier index.html dans ton navigateur
 ou configure ton environnement local si tu utilises un backend.
+
 📁 Structure du projet
 
 /
@@ -31,10 +36,12 @@ ou configure ton environnement local si tu utilises un backend.
 │   └── script.js
 ├── images/
 └── README.md
+
+
 🧑‍💻 Auteur
 
-Développé par [Ton Nom / Pseudo GitHub]
-👉 [ton-site.com] | ✉️ [ton-email@email.com] | 🐙 [github.com/ton-utilisateur]
+Développé par [Kevin Colmeiro / RETOURNETOI]
+👉 [ton-site.com] | ✉️ [kevin.colmeiro17@gmail.com] | 🐙 [github.com/RETOURNETOI]
 
 📄 Licence
 
